@@ -2,7 +2,7 @@
 
 An ultra-realistic, highly adaptive terminal prank command built for Linux systems running Bash. It perfectly mimics the layout, behaviors, and rules of actual root execution, allowing you to prank friends into thinking they are running an elite back-end exploit.
 
-## ✨ Features
+## Features ✨
 * **Real Password Simulation:** Masks inputs entirely, rendering typing invisible just like standard `sudo`.
 * **Sudo Cache Awareness:** Automatically detects if `sudo` credentials are cached. If you authenticated recently on a real system command, it skips the password prompt entirely to maintain absolute tactical realism.
 * **Standard Root Enforcement:** Trying to run `hack` without `sudo` instantly yields a believable permission error.
